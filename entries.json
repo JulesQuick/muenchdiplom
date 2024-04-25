@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Risographer/Shop 1",
+    "street": "Street 1",
+    "city": "City 1",
+    "country": "Country 1",
+    "website": "http://www.example.com/shop1"
+  },
+  {
+    "name": "Risographer/Shop 2",
+    "street": "Street 2",
+    "city": "City 2",
+    "country": "Country 2",
+    "website": "http://www.example.com/shop2"
+  },
+  {
+    "name": "Risographer/Shop 3",
+    "street": "Street 3",
+    "city": "City 3",
+    "country": "Country 3",
+    "website": "http://www.example.com/shop3"
+  }
+]
